@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Japneet Singh</h1>
 <h3 align="center">Learning to Code, Design, and Dive into Tech Stuff</h3>
 
-- 🌱 I’m currently learning **javascript**
+- 🌱 I’m currently learning **React**
 
 - 📫 How to reach me **jsingh.162004@gmail.com**
 
